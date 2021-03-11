@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       C:\Users\mrhun                                            */
+/*    Author:       DietMilk420                                               */
 /*    Created:      Wed Feb 24 2021                                           */
 /*    Description:  V5 project                                                */
 /*                                                                            */
